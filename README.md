@@ -6,6 +6,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Introduction  
+We developed this myG2P (Myanmar Grapheme to Phoneme) dictionary for [NICT](http://www.nict.go.jp/en/) [VoiceTra](http://voicetra.nict.go.jp/en/index.html) (Multilingual Speech Translation Application) Myanmar language project. We mainly used MLC (Myanmar Language Commission) dictionary words.
 
 ## Development and Support
 
