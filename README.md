@@ -11,7 +11,7 @@ We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](
 ## Dictionay Format  
 The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:  
 
-Word-ID`<TAB>`Word`<TAB>`Syllable-Breaked-Word`<TAB>`Pronunciation 
+`Word-ID`<TAB>`Word`<TAB>`Syllable-Breaked-Word`<TAB>`Pronunciation` 
 
 Example:
 
