@@ -6,7 +6,15 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Introduction  
-We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](http://voicetra.nict.go.jp/en/index.html) (Multilingual Speech Translation Application) Myanmar language project of [NICT](http://www.nict.go.jp/en/), Japan. We mainly used MLC (Myanmar Language Commission) dictionary words. Please cite the ICCA 2015 paper and/or COLING 2016 paper, if you use myG2P dictionary. Please cite PACLING 2015 paper, if you are talking about sentence level grapheme-to-phoneme conversion of Myanmar language. 
+We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](http://voicetra.nict.go.jp/en/index.html) (Multilingual Speech Translation Application) Myanmar language project of [NICT](http://www.nict.go.jp/en/), Japan (during 2014-2015). We mainly used MLC (Myanmar Language Commission) dictionary words. Please cite the ICCA 2015 paper and/or COLING 2016 paper, if you use myG2P dictionary. Please cite PACLING 2015 paper, if you are talking about sentence level grapheme-to-phoneme conversion of Myanmar language. 
+
+## Dictionay Format  
+The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:  
+
+Word-ID<TAB>Word<TAB>Syllable-Breaked-Word<TAB>Pronunciation 
+
+Example:
+
 
 ## Latest Version  
 [Version.1]()
@@ -20,7 +28,7 @@ Contributors
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
 
 ## Acknowledgements
-We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings.  
+We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Jinfu Ni and Yoshnori Shiga for their valuable suggestions on myG2P development.
 
 ## To Do
 -to add new Myanmar words from various domain
