@@ -14,6 +14,7 @@ The dictionary format is distributed as a plain text file with one entry to a li
   Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation 
 
   Example:  
+  ```
   19663 သုတ သု တ  thu. ta.  
   19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
   19665	သုတိ	သု တိ	thu. ti.  
@@ -24,7 +25,8 @@ The dictionary format is distributed as a plain text file with one entry to a li
   19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
   19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
   19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
-
+  ```  
+  
 ## Latest Version  
 [Version.1]()
 (We will upload soon!)
