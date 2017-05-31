@@ -35,7 +35,7 @@ We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe
 
 ## Publication
 
-Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [Paper](https://github.com/ye-kyaw-thu/myG2P/blob/master/reference/g2p-revised.pdf) [Best Paper Award]
+Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. [Paper](https://github.com/ye-kyaw-thu/myG2P/blob/master/reference/g2p-revised-ICCA2015.pdf) [Best Paper Award]
 
 Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Jinfu Ni, Eiichiro Sumita and Chiori Hori, 2015, "The Application of Phrase Based Statistical Machine Translation Techniques to Myanmar Grapheme to Phoneme Conversion", In Proceedings of the Pacific Association for Computational Linguistics Conference (PACLING 2015), May 19~21, 2015, Legian, Bali, Indonesia, pp. 170-176. [Paper](https://github.com/ye-kyaw-thu/myG2P/blob/master/reference/myg2p-PACLING2015.pdf) (revised paper has been published in Springer Communication in Computer and Information Science (CCIS), ISSN:1865-0929, pp. 238-250)
 Please note we used myG2P dictionary + extracted 5,276 sentences of BTEC corpus for this paper
