@@ -54,4 +54,4 @@ Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Jinfu Ni, Eiichiro Sumita and Chiori Hori,
 Ye Kyaw Thu, Win Pa Pa, Yoshinori Sagisaka, Naoto Iwahashi, "Comparison of Grapheme–to–Phoneme Conversion Methods on a Myanmar Pronunciation Dictionary", In Proceedings of the 6th Workshop on South and Southeast Asian Natural Language Processing (WSSANLP), COLING 2016, December 11-17, 2016, Osaka, Japan, pp. 11–22. [Paper](https://github.com/ye-kyaw-thu/myG2P/blob/master/reference/G2P4Myanmar_WSSANLP_COLING2016.pdf)  
 
 ## Reference
-1. San Lwin, Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.
+1. Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.
