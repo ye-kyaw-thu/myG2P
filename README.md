@@ -31,7 +31,7 @@ The dictionary format is distributed as a plain text file with one entry to a li
   ```  
   
 ## Latest Version  
-[Version.1]()
+[Version.1]()  
 (We will upload soon!)
 
 ## Development and Support
