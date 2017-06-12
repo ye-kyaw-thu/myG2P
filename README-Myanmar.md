@@ -33,6 +33,8 @@ Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation
   19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
   19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
   ```  
+  မှတ်ချက်။ ။ Word-IDက myG2Pအဘိဓာန်ထဲက Word-IDနဲ့ တူချင်မှတူမယ်။ ကျွန်တော်တို့ ဒေတာတိုးတာ၊ စာလုံးဖြည့်စွက်တာတွေထပ်ထပ်လုပ်မှာမို့လို့။  
+  
 ## Latest Version
 
 Version.1 (We will upload soon!)
