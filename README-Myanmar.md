@@ -17,19 +17,19 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 
 Word-ID<TAB>Word<TAB>Syllable-Breaked-Word<TAB>Pronunciation  
 
-Example:
-
-19663	သုတ သု တ  thu. ta.  
-19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
-19665	သုတိ	သု တိ	thu. ti.  
-19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
-19667	သုတေသီ	သု တေ သီ	thu. tei thi  
-19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'  
-19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'  
-19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
-19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
-19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
-
+  Example:  
+  ```
+  19663 သုတ သု တ  thu. ta.  
+  19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
+  19665	သုတိ	သု တိ	thu. ti.  
+  19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
+  19667	သုတေသီ	သု တေ သီ	thu. tei thi  
+  19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'  
+  19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'  
+  19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
+  19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
+  19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
+  ```  
 ## Latest Version
 
 Version.1 (We will upload soon!)
