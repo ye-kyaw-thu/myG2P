@@ -43,7 +43,7 @@ Contributors
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
 
 ## Acknowledgement
-We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshnori Shiga for their valuable suggestions on myG2P development.
+We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshinori Shiga for their valuable suggestions on myG2P development.
 
 ## To Do
 -to add new Myanmar words from various domain
