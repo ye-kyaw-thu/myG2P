@@ -36,10 +36,10 @@ Version.1 (We will upload soon!)
 
 ## Development and Support
 
-Contributors
-
-Win Pa Pa
-Ye Kyaw Thu
+Contributors  
+ 
+[Win Pa Pa](https://sites.google.com/site/winpapaucsy/)   
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
 
 ## Acknowledgements
 
