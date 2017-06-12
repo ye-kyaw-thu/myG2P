@@ -1,0 +1,66 @@
+Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS).
+စကားပြောကို စာသားအဖြစ် အလိုအေလျာက်ပြောင်းပေးသောစနစ်(ASR) နှင့် စာသားကို စက်မှအလိုအလျောက်ရွတ်ပေးသည့်(TTS) စနစ်များ အတွက် အသုံးပြုမည့်မြန်မာစာလုံးများကို အသံထွက်သင်္ကေတ သို့ ပြောင်းပေးသော အဘိဓာန်
+Lincense
+
+Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License
+Details Info of License
+Introduction
+မြန်မာစာလုံးများထဲမှ အချို့သော စာလုံးများသည် ရေးသည့်အတိုင်းမထွက်ပဲ ပြောင်းလဲအသံထွက်နိုင်သည်။ 
+ဥပမာ - "စကား" ဆိုသော စာလုံးကို "ဇဂါး" ဟု အသံထွက်သည်။ "ပုလဲ" ကို "ပလဲ" ဟု အသံထွက်သည်။ "ပညာ" ကို "ပြင်ညာ"ဟု အသံထွက်သည်။ "သုည" ကို "သုန်ည" ဟုအသံထွက်သည်။ ဤကဲ့သို့သော အသံပြောင်းခြင်းသည် စာလုံးတစ်လုံးအတွင်းမှာ ဖြစ်ပေါ်သည်ဖြစ်ပြီး ဤကဲ့သို့သော အသံထွက် အဘိဓာန်ကို အသုံးပြု၍ စာလုံးအလိုက် အသံထွက်သင်္ကေတ သို့ ပြောင်းလဲနိုင်သည်။
+နောက်ထပ် အသံပြောင်းနိုင်သောပုံစံမှာ စာကြောင်းအလိုက်ဖြစ်ပြီး စာလုံးတစ်လုံးနှင့်တစ်လုံး ဆက်၍ပြောသောအခါတွင် ဖြစ်ပေါ်သည်။ ဥပမာ - "သူက"  နှင့် "ကျုပ်က" - "သူက" တွင် "က" ကို "ဂ" ဟုဖတ်ပြီး "ကျုပ်က" တွင် "က" ကို "က" ဟုသာ ဖတ်သည်။ ဘေးပတ်ဝန်းကျင်စာလုံးများကိုအမှီပြု၍ အသံထွက်ပြောင်းလဲခြင်းဖြစ်သည်။ 
+
+We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for VoiceTra (Multilingual Speech Translation Application) Myanmar language project of NICT, Japan (during 2014-2015). We mainly used MLC (Myanmar Language Commission) dictionary words. Please cite the ICCA 2015 paper and/or COLING 2016 paper, if you use myG2P dictionary. Please cite PACLING 2015 paper, if you are talking about sentence level grapheme-to-phoneme conversion of Myanmar language.
+ဤ အသံထွက် အဘိဓာန်ကို VoiceTra (အသံမှအသံသို့ ဘာသာပြန်ပေးသော မိုဘိုင်းအပလီကေးရှင်း) တွင် အသုံးပြုရန်ရည်ရွယ်၍ တည်ဆောက်ထားပါသည်။ မြန်မာစာအဖွဲ့မှ ထုတ်ဝေသော မြန်မာ-အင်္ဂလိပ် အဘိဓာန် မှ စာလုံးများကို အဓိက ယူထားပြီး အသံထွက်သင်္ကေတများကို ဆီလျော်အောင်ပြုပြင်ထားပါသည်။ ဤအသံထွက်အဘိဓာန်ကို အသုံးပြုပါက ICCA2015 တွင်ဖော်ပြခဲ့သော paper ကို ကျေးဇူးပြု၍ cite လုပ်ပေးပါရန် နှင့် စာကြောင်းအလိုက် အသံထွက်သင်္ကေတ သို့ပြောင်းခြင်း အတွက်ဖြစ်ပါက PACLING 2015 paper ကျေးဇူးပြု၍ cite လုပ်ပေးပါရန်။
+
+Dictionay Format
+အဘိဓာန် ဖော်ပြပုံ
+The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:
+အသံထွက်အဘိဓာန် ကို plain text file အနေနှင့် ဖြန့်ချိထားပြီး တစ်ကြောင်းလျှင် စာလုံးတစ်လုံးစီအတွက် သက်ဆိုင်ရာ အသံထွက် သင်္ကေတများ ဖြင့် ဖော်ပြထားပါသည်။
+Word-ID<TAB>Word<TAB>Syllable-Breaked-Word<TAB>Pronunciation
+
+Example:
+
+19663	သုတ သု တ  thu. ta.  
+19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
+19665	သုတိ	သု တိ	thu. ti.  
+19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
+19667	သုတေသီ	သု တေ သီ	thu. tei thi  
+19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'  
+19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'  
+19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
+19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
+19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
+
+Latest Version
+
+Version.1 (We will upload soon!)
+Development and Support
+
+Contributors
+
+Win Pa Pa
+Ye Kyaw Thu
+Acknowledgements
+
+We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshnori Shiga for their valuable suggestions on myG2P development.
+To Do
+
+-to add new Myanmar words from various domain
+Publication
+
+Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Aye Mya Hlaing, Hay Mar Soe Naing, Eiichiro Sumita and Chiori Hori, "Syllable Pronunciation Features for Myanmar Grapheme to Phoneme Conversion", In Proceedings of the 13th International Conference on Computer Applications (ICCA 2015), February 5~6, 2015, Yangon, Myanmar, pp. 161-167. Paper [Best Paper Award]
+ဤစာတမ်းသည် Machine Learning Technique တစ်ခု ဖြစ်သော Conditional Random Fields ကို စာလုံးအလိုက် အသံထွက်သင်္ကေတများသို့ ပြောင်းလဲရာတွင် အသုံးပြုထားသည်။ မြန်မာအသံပြောင်းလဲခြင်း စည်းမျဉ်းများကို Conditional Random Field အတွက် Feature များအဖြစ်အသုံးပြု၍ ၎င်း Feature များ ကို အသုံးပြုခြင်းသည် ၎င်း Feature များမပါဝင်သော Conditional Random Field ထက် ပိုမိုကောင်းမွန်ကြောင်းကို သက်သေပြထားပါသည်။ ဤအသံထွက် အဘိဓာန်ကို အသုံးပြုထားပါသည်။
+
+Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Jinfu Ni, Eiichiro Sumita and Chiori Hori, 2015, "The Application of Phrase Based Statistical Machine Translation Techniques to Myanmar Grapheme to Phoneme Conversion", In Proceedings of the Pacific Association for Computational Linguistics Conference (PACLING 2015), May 19~21, 2015, Legian, Bali, Indonesia, pp. 170-176. Paper (revised paper has been published in Springer Communication in Computer and Information Science (CCIS), ISSN:1865-0929, pp. 238-250)
+:point_up: We used myG2P dictionary + extracted 5,276 sentences of BTEC corpus for this PACLING 2015 conference paper
+ဤစာတမ်းသည် Phrase Based Statistical Machine Translation Techniques ကို အသုံးပြု၍ စာကြောင်းမှ အသံထွက်သင်္ကတသို့ ပြောင်းပေးရာတွင်အသုံးပြုသည်။ မြန်မာစာကြောင်း နှင့် အသံထွက် သင်္ကေတ ကို ဘာသာစကား နှစ်ခုကဲ့သို့ ပြင်ဆင်ထားပြီး ဘာသာပြန်စနစ်အားဖြင့် မြန်မာစာကြောင်းကို အသံထွက် သင်္ကတ သို့ ဘာသာပြန်သကဲ့သို့ စာကြောင်းအလိုက် အသံထွက်သင်္ကေတ ထုတ်ပေးနိုင်သည်။ အသံထွက် အဘိဓာန်နှင့် NICT ၏ BTEC corpus မှ မြန်မာစာကြောင်း ၅၂၇၆ ကြောင်းကို ရွေးထုတ်ပြီး အသုံးပြုထားသည်။
+
+Ye Kyaw Thu, Win Pa Pa, Yoshinori Sagisaka, Naoto Iwahashi, "Comparison of Grapheme–to–Phoneme Conversion Methods on a Myanmar Pronunciation Dictionary", In Proceedings of the 6th Workshop on South and Southeast Asian Natural Language Processing (WSSANLP), COLING 2016, December 11-17, 2016, Osaka, Japan, pp. 11–22. Paper
+ဤစာတမ်းသည် စာသားကို အသံထွက်သင်္ကေတသို့ပြောင်းလဲရန်အတွက် Adaptive Regularization of Weight Vectors (AROW) based structured learning (S-AROW), Conditional Random Fields(CRF), Joint-sequence models (JSM), phrase-based statistical machine translation(PBSMT), Recurrent Neural Network(RNN), Support Vector Machine(SVM) based point-wise classification, Weighted Finite-state Transducers(WFST) နည်းလမ်း (၆)မျိုးကို ကိုယ်တိုင်ပြင်ဆင်ထားသော အသံထွက် အဘိဓာန်ကို အသုံးပြုထားသည်။ နှိုင်းယှဉ်သုတေသနပြုထားသော အဖြေများအရ CRF, PBSMT နှင့် WFST နည်းလမ်းများက မြန်မာစာလုံးအသံထွက်များအတွက် အခြားနည်းလမ်းများထက် ပိုမိုသင့်တော်သည်ကိုတွေ့ရှိရသည်။
+
+Reference
+
+Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.
+
+ကိုးကား
+မြန်မာ-အင်္ဂလိပ် အဘိဓာန် (၁၉၉၃)၊ မြန်မာစာအဖွဲ့ဦးစီးဌာန၊ ပညာရေးဝန်ကြီးဌာန
