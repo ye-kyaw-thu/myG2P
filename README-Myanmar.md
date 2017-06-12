@@ -1,6 +1,7 @@
-Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS).
-စကားပြောကို စာသားအဖြစ် အလိုအေလျာက်ပြောင်းပေးသောစနစ်(ASR) နှင့် စာသားကို စက်မှအလိုအလျောက်ရွတ်ပေးသည့်(TTS) စနစ်များ အတွက် အသုံးပြုမည့်မြန်မာစာလုံးများကို အသံထွက်သင်္ကေတ သို့ ပြောင်းပေးသော အဘိဓာန်
-Lincense
+# myG2P
+စကားပြောကို စာသားအဖြစ် အလိုအေလျာက်ပြောင်းပေးသောစနစ်(ASR) နှင့် စာသားကို စက်မှအလိုအလျောက်ရွတ်ဖတ်ပေးသည့်(TTS) စနစ်များ အတွက် အသုံးပြုမည့်မြန်မာစာလုံးများကို အသံထွက်သင်္ကေတ သို့ ပြောင်းပေးသော အဘိဓာန်
+
+## Lincense
 
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License
 Details Info of License
