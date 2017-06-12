@@ -15,7 +15,7 @@ Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-
 ## အဘိဓာန် ဖော်ပြပုံ (Dictionary Format)  
 အသံထွက်အဘိဓာန် ကို plain text file အနေနှင့် ဖြန့်ချိထားပြီး တစ်ကြောင်းလျှင် စာလုံးတစ်လုံးစီအတွက် သက်ဆိုင်ရာ အသံထွက် သင်္ကေတများ ဖြင့် ဖော်ပြထားပါသည်။  
 
-Word-ID<TAB>Word<TAB>Syllable-Breaked-Word<TAB>Pronunciation  
+Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation  
 
   Example:  
   ```
