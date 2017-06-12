@@ -46,7 +46,7 @@ Contributors
 We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshnori Shiga for their valuable suggestions on myG2P development.
 
 ## ရှေ့ဆက် ဆောင်ရွက်ရန်
--to add new Myanmar words from various domain  
+နယ်ပယ်အသီးသီးတွင် (ဥပမာ အားကစားလောက၊ ဆေးပညာလောက၊ အင်ဂျင်နီယာလောက) အသုံးပြုနေသော မြန်မာစာလုံးများ ကိုဖြည့်စွက်ရန်
 
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်းများ
 
