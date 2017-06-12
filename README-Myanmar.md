@@ -43,7 +43,7 @@ Contributors
 
 ## Acknowledgements
 
-We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshnori Shiga for their valuable suggestions on myG2P development.
+မအေးမြလှိုင်နဲ့ မဟေမာစိုးနိုင် တို့နှစ်ယောက်ကို G2P အဘိဓာန်ပြင်ဆင်နေစဉ်မှာ ပရိုဂရမ်ကနေ၊ မော်ဒယ်ကနေ တပ်ပေးလိုက်တဲ့ အသံထွက်တွေအမှားတွေကို စစ်ဆေးပေးတဲ့အတွက် အထူးကျေးဇူးတင်ရှိပါသည်။ နောက်ပြီး NICT ဂျပန်နိုင်ငံသုတေသနရုံးက လုပ်ဖော်ကိုင်ဖက်တွေဖြစ်တဲ့ ဒေါက်တာ Jinfu Ni နဲ့ ဒေါက်တာ Yoshinori Shiga တို့နှစ်ယောက်ကိုလည်း တန်ဖိုးမဖြတ်နိုင်သော အကြံဉာဏ်တွေပေးခဲ့တဲ့အတွက် ကျေးဇူးအထူးတင်ပါရှိပါသည်။  
 
 ## ရှေ့ဆက် ဆောင်ရွက်ရန်
 နယ်ပယ်အသီးသီးတွင် (ဥပမာ အားကစားလောက၊ ဆေးပညာလောက၊ အင်ဂျင်နီယာလောက) အသုံးပြုနေသော မြန်မာစာလုံးများ ကိုဖြည့်စွက်ရန်
