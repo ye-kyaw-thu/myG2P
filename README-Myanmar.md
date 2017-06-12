@@ -1,4 +1,4 @@
-# myG2P (Still updating this README file ... not finish yet !!!)
+# myG2P (Still updating this README file and dictionay also not upload yet !!!)
 စကားပြောကို စာသားအဖြစ် အလိုအလျောက်ပြောင်းပေးသောစနစ်(ASR) နှင့် စာသားကို စက်မှအလိုအလျောက်ရွတ်ဖတ်ပေးသည့်(TTS) စနစ်များ အတွက် အသုံးပြုမည့်မြန်မာစာလုံးများကို အသံထွက်သင်္ကေတ သို့ ပြောင်းပေးသော အဘိဓာန်
 
 ## လိုင်စင်
