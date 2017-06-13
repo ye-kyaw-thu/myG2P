@@ -13,6 +13,10 @@ Contact email: wasedakuma[at]gmail.com
 We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](http://voicetra.nict.go.jp/en/index.html) (Multilingual Speech Translation Application) Myanmar language project of [NICT](http://www.nict.go.jp/en/), Japan (during 2014-2015). We mainly used MLC (Myanmar Language Commission) dictionary words. Please cite the ICCA 2015 paper and/or COLING 2016 paper, if you use myG2P dictionary. Please cite PACLING 2015 paper, if you are talking about sentence level grapheme-to-phoneme conversion of Myanmar language.  
 
 ## Grapheme to Phoneme Mapping  
+
+The Myanmar Language Commission (MLC) Pronunciation Dictionary can be used as a basis for pronunciation mapping. We found it necessary to extend the dictionary with foreign pronunciations. In the proposed mapping table there are 23 phonetic symbols for 33 consonants (some consonants share the same pro- nunciation, for example “ဒ”, “ဓ”, “ဍ” and “ဎ” in Table1), 87 vowels combinations and 20 special symbols for foreign word pronunciations. Characters are grouped according to their pronunciation; the groups are unaspirated, aspirated, voiced and nasal and are shown in Table 1. Many Myanmar syllables containing un-aspirated and aspirated consonants are pronounced as voiced consonants depending on the neighboring context.
+Some foreign pronunciations have to be expressed by special vowel combinations because Myanmar pronunciations do not include some pronunciations. See Table 3. MLC dictionary was extended by de ning 26 more symbols to include phoneme mappings for foreign words for example, the Myanmar phonetic rep- resentation of the foreign name “Alex” “အဲလက်(စ်)” is e:le’S (here, S is for (စ်)) and “Swift” “ဆွစ်(ဖ်)(ထ်)” is hswi’HPHT (here, HP is for (ဖ်) and HT is for (ထ်)).
+
 <!-- ![consonant-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png) -->
 
 <p align="center">
