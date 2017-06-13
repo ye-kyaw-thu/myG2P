@@ -15,6 +15,34 @@ Email address: wasedakuma[at]gmail.com
 
 ဤ myG2Pအသံထွက် အဘိဓာန်ကို VoiceTra (အသံမှအသံသို့ ဘာသာပြန်ပေးသော မိုဘိုင်းအပလီကေးရှင်း) တွင် အသုံးပြုရန်ရည်ရွယ်၍ တည်ဆောက်ထားခဲ့ပါသည်။ မြန်မာစာအဖွဲ့မှ ထုတ်ဝေသော မြန်မာ-အင်္ဂလိပ် အဘိဓာန် မှ စာလုံးများကို အဓိက ယူထားပြီး အသံထွက်သင်္ကေတများကို ဆီလျော်အောင်ပြုပြင်ထားပါသည်။ ဤအသံထွက်အဘိဓာန်ကို အသုံးပြုပါက ICCA2015 တွင်ဖော်ပြခဲ့သော paper ကို ကျေးဇူးပြု၍ cite လုပ်ပေးပါရန် နှင့် စာကြောင်းအလိုက် အသံထွက်သင်္ကေတ သို့ပြောင်းခြင်း အတွက်ဖြစ်ပါက PACLING 2015 paper ကျေးဇူးပြု၍ cite လုပ်ပေးပါရန်။  
 
+## Grapheme to Phoneme Mapping  
+မြန်မာလိုရှင်းပြရန်  
+
+<!-- ![consonant-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png) -->
+<p align="center">  
+Table 1: Groups of Myanmar consonants and their pronunciations
+  <img width="650" height="250" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png">
+</p>
+
+### Contextually Independent Pronunciation
+မြန်မာလို ရှင်းပြရန်
+
+
+<p align="center">  
+Tagle 2: Examples of vowel combinations and their pronunciations
+<img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
+</p>  
+
+
+### Contextually Dependent Pronunciations  
+မြန်မာလိုရှင်းပြရန်  
+
+<p align="center">  
+Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
+<img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
+</p>  
+
+
 ## myG2Pအဘိဓာန် ဒေတာဖော်ပြပုံ (Dictionary Format)  
 အသံထွက်အဘိဓာန် ကို plain text file အနေနှင့် ဖြန့်ချီထားပြီး တစ်ကြောင်းလျှင် စာလုံးတစ်လုံးစီအတွက် သက်ဆိုင်ရာ အသံထွက် သင်္ကေတများ ဖြင့် ဖော်ပြထားပါသည်။  
 
