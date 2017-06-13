@@ -18,7 +18,7 @@ We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](
 
 ![vowel-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png)
 
-![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize)
+![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png)
 
 <img src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-p.png" width="450" height="220" />
 
