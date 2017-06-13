@@ -14,23 +14,26 @@ We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](
 
 ## Grapheme to Phoneme Mapping  
 
-The Myanmar Language Commission (MLC) Pronunciation Dictionary can be used as a basis for pronunciation mapping. We found it necessary to extend the dictionary with foreign pronunciations. In the proposed mapping table there are 23 phonetic symbols for 33 consonants (some consonants share the same pro- nunciation, for example “ဒ”, “ဓ”, “ဍ” and “ဎ” in Table1), 87 vowels combinations and 20 special symbols for foreign word pronunciations. Characters are grouped according to their pronunciation; the groups are unaspirated, aspirated, voiced and nasal and are shown in Table 1. Many Myanmar syllables containing un-aspirated and aspirated consonants are pronounced as voiced consonants depending on the neighboring context.
+The Myanmar Language Commission (MLC) Pronunciation Dictionary can be used as a basis for pronunciation mapping. We found it necessary to extend the dictionary with foreign pronunciations. In the proposed mapping table there are 23 phonetic symbols for 33 consonants (some consonants share the same pronunciation, for example “ဒ”, “ဓ”, “ဍ” and “ဎ” in Table1), 87 vowels combinations and 20 special symbols for foreign word pronunciations. Characters are grouped according to their pronunciation; the groups are unaspirated, aspirated, voiced and nasal and are shown in Table 1. Many Myanmar syllables containing unaspirated and aspirated consonants are pronounced as voiced consonants depending on the neighboring context.
 Some foreign pronunciations have to be expressed by special vowel combinations because Myanmar pronunciations do not include some pronunciations. See Table 3. MLC dictionary was extended by de ning 26 more symbols to include phoneme mappings for foreign words for example, the Myanmar phonetic rep- resentation of the foreign name “Alex” “အဲလက်(စ်)” is e:le’S (here, S is for (စ်)) and “Swift” “ဆွစ်(ဖ်)(ထ်)” is hswi’HPHT (here, HP is for (ဖ်) and HT is for (ထ်)).
 
 <!-- ![consonant-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png) -->
 
 <p align="center">
+Table 1: Groups of Myanmar consonants and their pronunciations
   <img width="650" height="250" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png">
 </p>
 
 <!-- ![vowel-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png) -->
 <p align="center">
+Tagle 2: Examples of vowel combinations and their pronunciations
 <img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
 </p>  
 
 <!-- ![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png) -->
 
 <p align="center">  
+Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
 <img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
 </p>  
 
