@@ -13,12 +13,17 @@ Contact email: wasedakuma[at]gmail.com
 We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](http://voicetra.nict.go.jp/en/index.html) (Multilingual Speech Translation Application) Myanmar language project of [NICT](http://www.nict.go.jp/en/), Japan (during 2014-2015). We mainly used MLC (Myanmar Language Commission) dictionary words. Please cite the ICCA 2015 paper and/or COLING 2016 paper, if you use myG2P dictionary. Please cite PACLING 2015 paper, if you are talking about sentence level grapheme-to-phoneme conversion of Myanmar language.  
 
 ## Grapheme to Phoneme Mapping  
-
+<p align="center">
 ![consonant-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png)
+</p>
 
+<p align="center">
 ![vowel-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png)
+</p>
 
+<p align="center">
 ![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png)
+</p>
 
 <!-- <img src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-p.png" width="450" height="220" /> -->
 
