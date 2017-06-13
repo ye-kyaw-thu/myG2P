@@ -1,6 +1,8 @@
 # myG2P (Still updating this README file and dictionay also not upload yet !!!)
 စကားပြောကို စာသားအဖြစ် အလိုအလျောက်ပြောင်းပေးသောစနစ်(ASR) နှင့် စာသားကို စက်မှအလိုအလျောက်ရွတ်ဖတ်ပေးသည့်(TTS) စနစ်များ အတွက် အသုံးပြုမည့်မြန်မာစာလုံးများကို အသံထွက်သင်္ကေတ သို့ ပြောင်းပေးသော အဘိဓာန်
 
+README in English --> [README in English](https://github.com/ye-kyaw-thu/myG2P/blob/master/README.md)
+
 ## လိုင်စင်
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
