@@ -24,6 +24,9 @@ Table 1: Groups of Myanmar consonants and their pronunciations
   <img width="650" height="250" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png">
 </p>
 
+### Contextually Independent Pronunciation
+This section explains how the pronunciation of Myanmar syllables is normally derived from orthographic structure. Myanmar syllables are generally composed of consonants and (zero or more) vowel combinations starting with a consonant. Here, vowel combinations can be single vowel, sequences of vowels starting with a consonant that modifies the pronunciation of the  first vowel. The pronunciations of consonants when they are combined with vowels are shown in Table 2.
+
 <!-- ![vowel-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png) -->
 <p align="center">
 Tagle 2: Examples of vowel combinations and their pronunciations
@@ -32,7 +35,11 @@ Tagle 2: Examples of vowel combinations and their pronunciations
 
 <!-- ![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png) -->
 
+### Contextually Dependent Pronunciations
 <p align="center">  
+
+Some Myanmar syllables do not conform to these standard rules of pronunciation. The pronunciation of the syllables can depend on the context of syllables. Differences between standard pronunciations and correct pronunciations of some words are shown in Table 3 as examples. It can be also seen in Table 2 that pronunciations of some same syllables are different depend on the context.
+
 Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
 <img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
 </p>  
