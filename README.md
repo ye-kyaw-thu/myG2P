@@ -14,7 +14,11 @@ We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](
 
 ## Grapheme to Phoneme Mapping  
 
+![consonant-grapheme-to-phoneme]()
 
+![vowel-grapheme-to-phoneme]()
+
+![contextually-dependent-pronunciations-grapheme-to-phoneme]()
 
 ## Dictionay Format  
 The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:  
