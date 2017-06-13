@@ -20,7 +20,7 @@ We developed this myG2P (Myanmar Grapheme-to-Phoneme) dictionary for [VoiceTra](
 
 ![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png)
 
-<img src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-p.png" width="450" height="220" />
+<!-- <img src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-p.png" width="450" height="220" /> -->
 
 
 ## Dictionay Format  
