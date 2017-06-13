@@ -35,11 +35,10 @@ Tagle 2: Examples of vowel combinations and their pronunciations
 
 <!-- ![contextually-dependent-pronunciations-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png) -->
 
-### Contextually Dependent Pronunciations
-<p align="center">  
-
+### Contextually Dependent Pronunciations  
 Some Myanmar syllables do not conform to these standard rules of pronunciation. The pronunciation of the syllables can depend on the context of syllables. Differences between standard pronunciations and correct pronunciations of some words are shown in Table 3 as examples. It can be also seen in Table 2 that pronunciations of some same syllables are different depend on the context.
 
+<p align="center">  
 Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
 <img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
 </p>  
