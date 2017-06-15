@@ -23,7 +23,7 @@ MLC အသံထွက် အဘိဓာန်သည် စာလုံးမ�
 <!-- ![consonant-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png) -->
 <p align="center">  
 <!-- Table 1: Groups of Myanmar consonants and their pronunciations -->
-   ဇယားနံပါတ် (၁) - ဗျည်း အုပ်စုများ နှင့် သူတို့၏ အသံထွက်များ
+   ဇယားနံပါတ်(၁) - ဗျည်း အုပ်စုများ နှင့် သူတို့၏ အသံထွက်များ
   <img width="650" height="250" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png">
 </p>
 
@@ -35,7 +35,7 @@ contextually independent pronunciation
 
 <p align="center">  
 <!-- Tagle 2: Examples of vowel combinations and their pronunciations -->
-ဇယားနံပါတ် (၂) - "အ" ဗျည်း နှင့် သရ ပေါင်းစပ်မှု ပုံစံများ နှင့် သူတို့၏ အသံထွက်များ
+ဇယားနံပါတ်(၂) - "အ" ဗျည်း နှင့် သရ ပေါင်းစပ်မှု ပုံစံများ နှင့် သူတို့၏ အသံထွက်များ
 <img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
 </p>  
 
@@ -48,7 +48,7 @@ Contextually Dependent Pronunciations
 
 <p align="center">  
 <!-- Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words -->
-ဇယားနံပါတ် (၃) - ရှေ့နောက်တွင်ရှိသော မြန်မာဝဏ္ဏ (syllable) များပေါ်မူတည်၍ မူရင်းအသံထွက်အတိုင်းမထွက်သော မြန်မာဝဏ္ဏ ဥပမာများ
+ဇယားနံပါတ်(၃) - ရှေ့နောက်တွင်ရှိသော မြန်မာဝဏ္ဏ (syllable) များပေါ်မူတည်၍ မူရင်းအသံထွက်အတိုင်းမထွက်သော မြန်မာဝဏ္ဏ ဥပမာများ
 <img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
 </p>  
 
