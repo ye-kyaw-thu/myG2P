@@ -51,7 +51,7 @@ The dictionary format is distributed as a plain text file with one entry to a li
 
   Example:  
   ```
-  19663 သုတ သု တ  thu. ta.  
+  19663   သုတ သု တ  thu. ta.  
   19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
   19665	သုတိ	သု တိ	thu. ti.  
   19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
