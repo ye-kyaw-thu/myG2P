@@ -27,7 +27,7 @@ This section explains how the pronunciation of Myanmar syllables is normally der
 
 <!-- ![vowel-grapheme-to-phoneme](https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png) -->
 <p align="center">  
-Tagle 2: Examples of vowel combinations and their pronunciations
+Table 2: Examples of vowel combinations and their pronunciations
 <img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
 </p>  
 
@@ -44,7 +44,7 @@ Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
 <!-- <img src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-p.png" width="450" height="220" /> -->
 
 
-## Dictionay Format  
+## Dictionary Format  
 The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:  
 
   Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation 
