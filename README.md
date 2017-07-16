@@ -64,7 +64,7 @@ The dictionary format is distributed as a plain text file with one entry to a li
   ```  
   
 ## Latest Version  
-[Version.1]()  
+[Version.1](https://raw.githubusercontent.com/ye-kyaw-thu/myG2P/master/ver1/myg2p.ver1.txt)  
 
 ## Development and Support
 
