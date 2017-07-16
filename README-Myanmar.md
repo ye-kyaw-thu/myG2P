@@ -69,7 +69,7 @@ Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation
   
 ## နောက်ဆုံး ဗားရှင်း (Latest Version)
 
-Version.1 (We will upload soon!)
+Version.1
 
 ## Development and Support
 
