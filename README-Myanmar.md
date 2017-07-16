@@ -69,7 +69,7 @@ Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation
   
 ## နောက်ဆုံး ဗားရှင်း (Latest Version)
 
-Version.1
+[Version.1](https://raw.githubusercontent.com/ye-kyaw-thu/myG2P/master/ver1/myg2p.ver1.txt)  
 
 ## Development and Support
 
