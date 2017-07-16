@@ -1,4 +1,4 @@
-# myG2P (Still updating this README file and dictionay also not upload yet !!!)
+# myG2P
 Myanmar (Burmese) Language Grapheme to Phoneme (myG2P) Conversion Dictionary for speech recognition (ASR) and speech synthesis (TTS).  
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် --> [README in Myanmar Language](https://github.com/ye-kyaw-thu/myG2P/blob/master/README-Myanmar.md)
