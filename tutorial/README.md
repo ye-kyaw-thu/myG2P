@@ -5,7 +5,7 @@ explaining how to build a word-level G2P tagging model with one of the CRF toolk
 I used [myG2P dictionary ver.1](https://github.com/ye-kyaw-thu/myG2P) (the 1st G2P dictionary for Myanmar language) for this tutorial.
 I also uploaded some perl scripts for your practical exercises.
 
-Note: I will update this tutorial when I have time.
+I will update this tutorial when I have time.
 
 Enjoy Myanmar language G2P tutorial! :)
 
