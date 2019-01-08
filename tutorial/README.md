@@ -1,5 +1,4 @@
-# Tutorial of Myanmar language G2P   
-# with CRF (Conditional Random Fields)
+# Tutorial of Myanmar language G2P with CRF (Conditional Random Fields)
 
 The main purpose of this tutorial is introduction to Myanmar language Grapheme-to-Phoneme (G2P) and   
 explaining how to build a word-level G2P tagging model with one of the CRF toolkits named CRFSuite.  
