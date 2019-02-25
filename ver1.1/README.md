@@ -1,5 +1,5 @@
 
-I updated some typing mistakes of Myanmar words from myg2p.ver1.txt.
+I updated some typing mistakes of Myanmar words from myg2p.ver1.txt.  
 In details:  
 
 ```
