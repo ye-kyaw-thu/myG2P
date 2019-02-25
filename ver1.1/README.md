@@ -19,5 +19,5 @@ diff ./myg2p.ver1.1.txt ./original-g2p-dict/myg2p.ver1.txt
 ```
 
 Regards,  
-Ye
+Ye  
 (25 Feb 2019)
