@@ -2,6 +2,7 @@
 I updated some typing mistakes of Myanmar words from myg2p.ver1.txt.
 In details:  
 
+```
 diff ./myg2p.ver1.1.txt ./original-g2p-dict/myg2p.ver1.txt 
 3845c3845
 < 3845	စကားဖောင်	စ ကားဖောင်	za- ga: hpaun
@@ -15,6 +16,7 @@ diff ./myg2p.ver1.1.txt ./original-g2p-dict/myg2p.ver1.txt
 < 19494	သိဝ	သိ ဝ	thi. wa.
 ---
 > 19494	သိ၀	သိ ၀	thi. wa.
+```
 
 Regards,
 Ye
