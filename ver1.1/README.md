@@ -18,6 +18,8 @@ diff ./myg2p.ver1.1.txt ./original-g2p-dict/myg2p.ver1.txt
 > 19494	သိ၀	သိ ၀	thi. wa.
 ```
 
+I will add some more g2p words when I have time.
+
 Regards,  
 Ye  
 (25 Feb 2019)
