@@ -9,7 +9,7 @@
   
 # Contributors 
 
-Version 1.1 ကနေ version 2.0 ဖြစ်လာဖို့အတွက် ကြိုးစားခဲ့ကြသူတွေကတော့ အောက်ပါအတိုင်းပါ။  
+Version 1.1 ကနေ version 2.0 ဖြစ်လာဖို့အတွက် အဓိကကြိုးစားခဲ့ကြသူတွေကတော့ အောက်ပါအတိုင်းပါ။  
 
 - Honey Htun (Ph.D. Candidate, Yangon Technological University, Myanmar)
 - Ni Htwe Aung (Ph.D. Candidate,Yangon Technological University, Myanmar)
