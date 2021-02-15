@@ -63,8 +63,10 @@ The dictionary format is distributed as a plain text file with one entry to a li
   19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
   ```  
   
-## Latest Version  
-[Version.1](https://raw.githubusercontent.com/ye-kyaw-thu/myG2P/master/ver1/myg2p.ver1.txt)  
+## Versions  
+[Version.1.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1)  
+[Version.1.1](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1.1)  
+[Version.2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2)  
 
 ## Development and Support
 
