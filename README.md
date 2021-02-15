@@ -100,5 +100,15 @@ Ye Kyaw Thu, Win Pa Pa, Andrew Finch, Jinfu Ni, Eiichiro Sumita and Chiori Hori,
 
 Ye Kyaw Thu, Win Pa Pa, Yoshinori Sagisaka, Naoto Iwahashi, "Comparison of Grapheme–to–Phoneme Conversion Methods on a Myanmar Pronunciation Dictionary", In Proceedings of the 6th Workshop on South and Southeast Asian Natural Language Processing (WSSANLP), COLING 2016, December 11-17, 2016, Osaka, Japan, pp. 11–22. [Paper](https://github.com/ye-kyaw-thu/myG2P/blob/master/reference/G2P4Myanmar_WSSANLP_COLING2016.pdf)  
 
+## Workshop Presentation
+
+Title: Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)  
+Workshop: [the 2nd joint Workshop on NLP/AI R&D](https://isai-nlp-aiot2020.aiat.or.th/the-2nd-joint-myanmar-thai-nlp-ai-rd-workshop/), [iSAI-NLP 2020](https://isai-nlp-aiot2020.aiat.or.th/), Bangkok, Thailand.  
+Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (YTU, Myanmar), Wint Theingi (YTU, Myanmar), Nyein Nyein Oo (YTU, Myanmar), Thepchai Supnithi (NECTEC, Thailand) and Ye Kyaw Thu (NECTEC, Thailand)  
+
+## Journal Paper
+
+to appear  
+
 ## Reference
 1. Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.
