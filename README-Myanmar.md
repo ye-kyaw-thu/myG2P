@@ -38,9 +38,11 @@ Email address: wasedakuma[at]gmail.com
 အချို့သော မြန်မာဝဏ္ဏအလိုက်အသံထွက်စာလုံးများ သည် အပေါ်စာပိုဒ်တွင်ဖော်ပြထားသော မူရင်းအသံထွက် ကို လိုက်နာခြင်းမရှိပေ။ ထိုအသံထွက်များသည် ရှေ့နောက် စာလုံးများပေါ်မူတည်၍ ပြောင်းလဲသွားခြင်းဖြစ်သည်။ မူရင်း အသံထွက် နှင့် အသံပြောင်း ကို ဇယားနံပါတ် (၃) တွင် ဥပမာနှင့်တကွ ဖော်ပြထားသည်။ အချို့သောဝဏ္ဏအလိုက်အသံထွက်စာလုံးများသည် အဓိပ္ပါယ်တစ်ခုဆောင်သော စာလုံးအတွင်းတွင် ကပ်လျက်ရှိနေလင့်ကစား မတူသော အသံထွက်ရှိတတ်ကြသည်။ ဥပမာ - တိတိပပ (တိဒိပဘ ဟု အသံထွက်သည်)၊ ချာချာလည် (ချာဂျာလည် ဟု အသံထွက်သည်)။   
 
 <p align="center">  
+
 <!-- Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words -->
 ဇယားနံပါတ်(၃) - ရှေ့နောက်တွင်ရှိသော မြန်မာဝဏ္ဏ (syllable) များပေါ်မူတည်၍ မူရင်းအသံထွက်အတိုင်းမထွက်သော မြန်မာဝဏ္ဏ ဥပမာများ
-<img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">
+<img width="470" height="160" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/context-depen-g2p-smallsize.png">  
+
 </p>  
 
 
