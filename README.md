@@ -72,12 +72,12 @@ The dictionary format is distributed as a plain text file with one entry to a li
 
 Contributors
 
-### for myG2p Version 1.0  
+### for myG2p (Version 1.0)  
 
 [Win Pa Pa](https://sites.google.com/site/winpapaucsy/)   
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
 
-### for myG2P version 2.0  
+### for myG2P (version 2.0)  
 
 - Honey Htun (Ph.D. Candidate, Yangon Technological University, Myanmar)
 - Ni Htwe Aung (Ph.D. Candidate,Yangon Technological University, Myanmar)
