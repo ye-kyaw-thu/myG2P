@@ -33,7 +33,7 @@ Email address: wasedakuma[at]gmail.com
 <p align="center">  
 <!-- Tagle 2: Examples of vowel combinations and their pronunciations -->
 ဇယားနံပါတ်(၂) - "အ" ဗျည်း နှင့် သရ ပေါင်းစပ်မှု ပုံစံများ နှင့် သူတို့၏ အသံထွက်များ
-<img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
+  <img width="600" height="200" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/vowel-g2p-smallsize.png">
 </p>  
 
 
