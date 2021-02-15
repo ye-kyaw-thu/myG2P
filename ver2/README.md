@@ -22,6 +22,7 @@ Version 1.1 ကနေ version 2.0 ဖြစ်လာဖို့အတွက် 
 ## Workshop Presentation
 
 Title: Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)  
+Workshop: [the 2nd joint Workshop on NLP/AI R&D](https://isai-nlp-aiot2020.aiat.or.th/the-2nd-joint-myanmar-thai-nlp-ai-rd-workshop/), [iSAI-NLP 2020](https://isai-nlp-aiot2020.aiat.or.th/), Bangkok, Thailand.  
 Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (YTU, Myanmar), Wint Theingi (YTU, Myanmar), Nyein Nyein Oo (YTU, Myanmar), Thepchai Supnithi (NECTEC, Thailand) and Ye Kyaw Thu (NECTEC, Thailand)  
 
 ## Journal Paper
