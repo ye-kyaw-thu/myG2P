@@ -76,10 +76,20 @@ Email address: wasedakuma[at]gmail.com
 
 ## Development and Support
 
-Contributors  
+ဗမာစာ ASR/TTS သုတေသနအလုပ်တွေအတွက် အသုံးဝင်တဲ့ myG2P အဘိဓာန် ဖြစ်ပေါ်လာဖို့အတွက် အဓိက အလုပ်လုပ်ခဲ့ကြသူများကတော့ အောက်ပါအတိုင်းပါ။  
  
+### for myG2P (Version 1.0)  
+
 [Win Pa Pa](https://sites.google.com/site/winpapaucsy/)   
-[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)  
+[Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
+
+### for myG2P (version 2.0)  
+
+- Honey Htun (Ph.D. Candidate, Yangon Technological University, Myanmar)
+- Ni Htwe Aung (Ph.D. Candidate,Yangon Technological University, Myanmar)
+- Shwe Sin Moe (a Master's student, Yangon Technological University, Myanmar)
+- Wint Theingi (a Master's student, Yangon Technological University, Myanmar)
+- [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (National Electronics and Computer Technology Center, Thailand)  
 
 ## ကျေးဇူးတင်မှတ်တမ်း
 
