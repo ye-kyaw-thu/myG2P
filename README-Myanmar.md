@@ -23,6 +23,8 @@ Email address: wasedakuma[at]gmail.com
 <p align="center">  
 <!-- Tagle 1 -->
 ဇယားနံပါတ်(၁) - ဗျည်း အုပ်စုများ နှင့် သူတို့၏ အသံထွက်များ
+</p>
+<p align="center">  
   <img width="650" height="250" src="https://github.com/ye-kyaw-thu/myG2P/blob/master/figure4readme/consonant-g2p-smallsize.png">
 </p>  
 
