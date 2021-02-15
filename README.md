@@ -47,21 +47,21 @@ Tagle 3: Examples of contextually dependent pronunciations of some Myanmar words
 ## Dictionary Format  
 The dictionary format is distributed as a plain text file with one entry to a line in the format as follow:  
 
-  Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation 
+  Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation\<TAB\>IPA  
 
   Example:  
-  ```
-  19663   သုတ သု တ  thu. ta.  
-  19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
-  19665	သုတိ	သု တိ	thu. ti.  
-  19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
-  19667	သုတေသီ	သု တေ သီ	thu. tei thi  
-  19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'  
-  19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'  
-  19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
-  19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
-  19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
-  ```  
+```
+19663	သုတ	သု တ	thu. ta.	θṵ ta̰
+19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei	θṵ ta̰ sà pè
+19665	သုတိ	သု တိ	thu. ti.	θṵ tḭ
+19666	သုတေသန	သု တေ သ န	thu. tei tha- na.	θṵ tè θə na̰
+19667	သုတေသီ	သု တေ သီ	thu. tei thi	θṵ tè θì
+19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'	θṵ də mà zə jaʔ
+19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'	θoʊʔ dà boʊʔ
+19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:	θṵ nà pə ɹàɴ ta̰ táɪɴ
+19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za	θṵ ba̰ jà zà
+19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.	θṵ mɪ̀ɴ ɡə la̰
+```  
   
 ## Versions  
 [Version.1.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1)  
