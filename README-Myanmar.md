@@ -50,26 +50,29 @@ Email address: wasedakuma[at]gmail.com
 ## myG2Pအဘိဓာန် ဒေတာဖော်ပြပုံ (Dictionary Format)  
 အသံထွက်အဘိဓာန် ကို plain text file အနေနှင့် ဖြန့်ချီထားပြီး တစ်ကြောင်းလျှင် စာလုံးတစ်လုံးစီအတွက် သက်ဆိုင်ရာ အသံထွက် သင်္ကေတများ ဖြင့် ဖော်ပြထားပါသည်။  
 
-Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation  
+  Word-ID\<TAB\>Word\<TAB\>Syllable-Breaked-Word\<TAB\>Pronunciation\<TAB\>IPA  
 
   Example:  
-  ```
-  19663   သုတ သု တ  thu. ta.  
-  19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei  
-  19665	သုတိ	သု တိ	thu. ti.  
-  19666	သုတေသန	သု တေ သ န	thu. tei tha- na.  
-  19667	သုတေသီ	သု တေ သီ	thu. tei thi  
-  19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'  
-  19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'  
-  19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:  
-  19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za  
-  19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.  
-  ```  
+```
+19663	သုတ	သု တ	thu. ta.	θṵ ta̰
+19664	သုတစာပေ	သု တ စာ ပေ	thu. ta. sa pei	θṵ ta̰ sà pè
+19665	သုတိ	သု တိ	thu. ti.	θṵ tḭ
+19666	သုတေသန	သု တေ သ န	thu. tei tha- na.	θṵ tè θə na̰
+19667	သုတေသီ	သု တေ သီ	thu. tei thi	θṵ tè θì
+19668	သုဓမ္မာဇရပ်	သု ဓမ် မာ ဇ ရပ်	thu. da- ma za- ja'	θṵ də mà zə jaʔ
+19669	သုဓာဘုတ်	သု ဓာ ဘုတ်	thou' da bou'	θoʊʔ dà boʊʔ
+19670	သုနာပရန္တတိုင်း	သု နာ ပ ရန် တ တိုင်း	thu. na pa- ran ta. tain:	θṵ nà pə ɹàɴ ta̰ táɪɴ
+19671	သုဘရာဇာ	သု ဘ ရာ ဇာ	thu. ba. ja za	θṵ ba̰ jà zà
+19672	သုမင်္ဂလ	သု မင် ဂ လ	thu. min ga- la.	θṵ mɪ̀ɴ ɡə la̰
+```  
   မှတ်ချက်။ ။ အထက်ပါ ဥပမာအနေနဲ့ပြထားသော Word-IDက တင်ပေးထားတဲ့ myG2Pအဘိဓာန်ထဲက Word-IDနဲ့ တူချင်မှတူမယ်။ ကျွန်တော်တို့ စာလုံးထပ်ဖြည့်တာတွေ ထပ်ခါထပ်ခါ လုပ်မှာမို့လို့။  
   
-## နောက်ဆုံး ဗားရှင်း (Latest Version)
+## Versions  
+[Version.1.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1), Released Date: May 30, 2017  
+[Version.1.1](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1.1), Released Date: Feb 25, 2019  
+[Version.2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2), Released Date: Feb 15, 2021  
 
-[Version.1](https://raw.githubusercontent.com/ye-kyaw-thu/myG2P/master/ver1/myg2p.ver1.txt)  
+  မှတ်ချက်။ ။ Latest version ကိုပဲ သုံးပါ။  
 
 ## Development and Support
 
