@@ -71,9 +71,19 @@ The dictionary format is distributed as a plain text file with one entry to a li
 ## Development and Support
 
 Contributors
-  
+
+### for myG2p Version 1.0  
+
 [Win Pa Pa](https://sites.google.com/site/winpapaucsy/)   
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
+
+### for myG2P version 2.0  
+
+- Honey Htun (Ph.D. Candidate, Yangon Technological University, Myanmar)
+- Ni Htwe Aung (Ph.D. Candidate,Yangon Technological University, Myanmar)
+- Shwe Sin Moe (a Master's student, Yangon Technological University, Myanmar)
+- Wint Theingi (a Master's student, Yangon Technological University, Myanmar)
+- [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (National Electronics and Computer Technology Center, Thailand)
 
 ## Acknowledgement
 We would like to express our gratitude to Ms. Aye Mya Hlaing and Ms. Hay Mar Soe Naing for checking G2P mappings. We also would like to thanks our NICT colleagues especially to Dr. Jinfu Ni and Dr. Yoshinori Shiga for their valuable suggestions on myG2P development.
