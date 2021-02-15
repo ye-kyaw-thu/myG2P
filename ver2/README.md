@@ -17,4 +17,17 @@ Version 1.1 ကနေ version 2.0 ဖြစ်လာဖို့အတွက် 
 - Wint Theingi (a Master's student, Yangon Technological University, Myanmar)
 - [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/) (National Electronics and Computer Technology Center, Thailand)
 
+# Publication
+
+## Workshop Presentation
+
+Title: Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)  
+Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (YTU, Myanmar), Wint Theingi (YTU, Myanmar), Nyein Nyein Oo (YTU, Myanmar), Thepchai Supnithi (NECTEC, Thailand) and Ye Kyaw Thu (NECTEC, Thailand)  
+
+## Journal Paper
+
+To appear  
+
+
+
 
