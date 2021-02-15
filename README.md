@@ -64,9 +64,9 @@ The dictionary format is distributed as a plain text file with one entry to a li
 ```  
   
 ## Versions  
-[Version.1.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1)  
+[Version.1.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1), Released Date: May 30, 2017  
 [Version.1.1](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver1.1)  
-[Version.2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2)  
+[Version.2.0](https://github.com/ye-kyaw-thu/myG2P/tree/master/ver2), Released Date: Feb 15, 2021  
 
 ## Development and Support
 
