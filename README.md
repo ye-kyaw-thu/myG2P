@@ -70,9 +70,9 @@ The dictionary format is distributed as a plain text file with one entry to a li
 
 ## Development and Support
 
-Contributors
+Contributors for developing myG2P dictionary are as follows:  
 
-### for myG2p (Version 1.0)  
+### for myG2P (Version 1.0)  
 
 [Win Pa Pa](https://sites.google.com/site/winpapaucsy/)   
 [Ye Kyaw Thu](https://sites.google.com/site/yekyawthunlp/)   
