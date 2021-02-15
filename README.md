@@ -111,4 +111,5 @@ Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (Y
 to appear  
 
 ## Reference
-1. Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.
+1. Myanmar-English Dictionary (1993), Department of the Myanmar Language Commission, Ministry of Education, Union of Myanmar.  
+2. https://en.wikipedia.org/wiki/International_Phonetic_Alphabet  
