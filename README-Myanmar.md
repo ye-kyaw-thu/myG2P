@@ -101,5 +101,15 @@ Contributors
  
  ဤစာတမ်းသည် စာသားကို အသံထွက်သင်္ကေတသို့ပြောင်းလဲရန်အတွက် Adaptive Regularization of Weight Vectors (AROW) based structured learning (S-AROW), Conditional Random Fields (CRFs), Joint-sequence models (JSM), phrase-based statistical machine translation (PBSMT), Recurrent Neural Network (RNN), Support Vector Machine (SVM) based point-wise classification, Weighted Finite-state Transducers (WFST) စုစုပေါင်းနည်းလမ်း (၆)မျိုးနှင့် ကိုယ်တိုင်ပြင်ဆင်ထားခဲ့သော myG2Pအသံထွက် အဘိဓာန်ကို အသုံးပြုထားသည်။ နှိုင်းယှဉ်သုတေသနပြုထားသော အဖြေများအရ လက်ရှိ myG2P အဘိဓာန်နဲ့ဆိုလျှင် မြန်မာစာလုံးအသံထွက်များအဖြစ် ပြောင်းလဲကြည့်ရာတွင်၊ CRFs, PBSMT နှင့် WFST နည်းလမ်းသုံးခုက အခြားနည်းလမ်းများထက် ပိုမိုသင့်တော်သည်ကိုတွေ့ရှိခဲ့ပါသည်။  
 
+## Workshop Presentation
+
+Title: Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)  
+Workshop: [the 2nd joint Workshop on NLP/AI R&D](https://isai-nlp-aiot2020.aiat.or.th/the-2nd-joint-myanmar-thai-nlp-ai-rd-workshop/), [iSAI-NLP 2020](https://isai-nlp-aiot2020.aiat.or.th/), Bangkok, Thailand.  
+Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (YTU, Myanmar), Wint Theingi (YTU, Myanmar), Nyein Nyein Oo (YTU, Myanmar), Thepchai Supnithi (NECTEC, Thailand) and Ye Kyaw Thu (NECTEC, Thailand)  
+
+## ဂျာနယ်စာတမ်း
+
+to appear  
+
 ## ကိုးကား
 မြန်မာ-အင်္ဂလိပ် အဘိဓာန် (၁၉၉၃)၊ မြန်မာစာအဖွဲ့ဦးစီးဌာန၊ ပညာရေးဝန်ကြီးဌာန
