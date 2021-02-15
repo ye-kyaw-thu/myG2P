@@ -126,4 +126,7 @@ Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (Y
 to appear  
 
 ## ကိုးကား
-မြန်မာ-အင်္ဂလိပ် အဘိဓာန် (၁၉၉၃)၊ မြန်မာစာအဖွဲ့ဦးစီးဌာန၊ ပညာရေးဝန်ကြီးဌာန
+1. မြန်မာ-အင်္ဂလိပ် အဘိဓာန် (၁၉၉၃)၊ မြန်မာစာအဖွဲ့ဦးစီးဌာန၊ ပညာရေးဝန်ကြီးဌာန  
+2. 2. https://en.wikipedia.org/wiki/International_Phonetic_Alphabet  
+
+
