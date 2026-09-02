@@ -27,7 +27,7 @@ Authors: Honey Htun (YTU, Myanmar), Ni Htwe Aung (YTU, Myanmar), Shwe Sin Moe (Y
 
 ## Journal Paper
 
-Honey Htun, Ni Htwe Aung, Shwe Sin Moe, Wint Theingi Zaw, Nyein Nyein Oo, Thepchai Supnithi, Ye Kyaw Thu, "Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. xxx-xxx. (to Appear)  
+Honey Htun, Ni Htwe Aung, Shwe Sin Moe, Wint Theingi Zaw, Nyein Nyein Oo, Thepchai Supnithi, Ye Kyaw Thu, "Grapheme-to-IPA Phoneme Conversion for Burmese (myG2P Version 2.0)", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2021, pp. 7-17. (Submitted February 8, 2021; accepted March 19, 2021; revised April 24, 2021; published online April 26, 2021)     
 
 
 
